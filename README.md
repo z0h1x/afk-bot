@@ -32,7 +32,7 @@ Edit the `config.json` file with your server details:
 ```
 
 ### 5. Start the Bot
-- Run your Aternos server (Make sure you have *ViaVersion* and *ViaRewind* *and ViaBackwards* installed on your server ) 
+- Run your Aternos server (Make sure you have *ViaVersion* ,*ViaRewind* , *ViaBackwards* installed on your server ) 
 - In the hosting dashboard, go to **Console** → **Start**.  
 - Your bot will connect and keep the server online.
 
